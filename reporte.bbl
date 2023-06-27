@@ -1,24 +1,33 @@
 \providecommand{\noopsort}[1]{}\providecommand{\singleletter}[1]{#1}%
-\begin{thebibliography}{3}
+\begin{thebibliography}{4}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Manem and Rose(2011)]{manem}
-Harika Manem and Garrett~S Rose.
-\newblock A read-monitored write circuit for 1t1m multi-level memristor memories.
-\newblock In \emph{2011 IEEE international symposium of circuits and systems (ISCAS)}, pages 2938--2941. IEEE, 2011.
+\bibitem[Unutulmaz et~al.(2011)Unutulmaz, D{\"u}ndar, and
+  Fern{\'a}ndez]{unutulmaz}
+Ahmet Unutulmaz, G{\"u}nhan D{\"u}ndar, and Francisco~V Fern{\'a}ndez.
+\newblock A template router.
+\newblock In \emph{2011 20th European Conference on Circuit Theory and Design
+  (ECCTD)}, pages 334--337. IEEE, 2011.
 
-\bibitem[Majumder et~al.(2016)Majumder, Uddin, Rose, and Rajendran]{maju}
-Md~Badruddoja Majumder, Mesbah Uddin, Garrett~S Rose, and Jeyavijayan Rajendran.
-\newblock Sneak path enabled authentication for memristive crossbar memories.
-\newblock In \emph{2016 IEEE Asian Hardware-Oriented Security and Trust (AsianHOST)}, pages 1--6. IEEE, 2016.
+\bibitem[Martins and Louren{\c{c}}o(2023)]{martins}
+Ricardo~MF Martins and Nuno~CC Louren{\c{c}}o.
+\newblock Analog integrated circuit routing techniques: An extensive review.
+\newblock \emph{IEEE Access}, 2023.
 
-\bibitem[Wang et~al.(2017)Wang, Yang, Chen, and Li]{wang}
-Xiaoping Wang, Yuanyuan Yang, Lin Chen, and Shuai Li.
-\newblock A non-volatile comparator based on 1t1m crossbar arrays using memristor-aided logic.
-\newblock In \emph{IECON 2017-43rd Annual Conference of the IEEE Industrial Electronics Society}, pages 5685--5689. IEEE, 2017.
+\bibitem[Hanan(1966)]{hanan}
+M.~Hanan.
+\newblock On steiner’s problem with rectilinear distance.
+\newblock \emph{SIAM Journal on Applied Mathematics}, 14\penalty0 (2):\penalty0
+  255--265, 1966.
+\newblock \doi{10.1137/0114025}.
+
+\bibitem[Weiss(2014)]{weiss}
+Mark~Allen Weiss.
+\newblock Data structures and algorithm analysis in c++.
+\newblock 2014.
 
 \end{thebibliography}

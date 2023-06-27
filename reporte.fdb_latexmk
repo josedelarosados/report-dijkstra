@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex reporte"] 1687480432 "reporte.aux" "reporte.bbl" "reporte" 1687480606 0
+["bibtex reporte"] 1687561604 "reporte.aux" "reporte.bbl" "reporte" 1687562600 0
   "./citas.bib" 1687480392 1096 a2caf9e870cc58f231d33efb711f3fb9 ""
-  "./reporteNotes.bib" 1687480605 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "./reporteNotes.bib" 1687562598 0 d41d8cd98f00b204e9800998ecf8427e ""
   "c:/texlive/2023/texmf-dist/bibtex/bst/natbib/unsrtnat.bst" 1687461935 24550 a41a6405f4de768c43e871d9fbce2bc8 ""
-  "reporte.aux" 1687480605 1585 820591119680402b323dd02d55fcd2c9 "pdflatex"
+  "reporte.aux" 1687562599 1535 d52cd856afc731bf63a7224d2a8a25b7 "pdflatex"
   (generated)
   "reporte.bbl"
   "reporte.blg"
   (rewritten before read)
-["pdflatex"] 1687480604 "d:/Desktop/PAR_scripts/reporte/reporte.tex" "reporte.pdf" "reporte" 1687480606 0
+["pdflatex"] 1687562598 "d:/Desktop/PAR_scripts/reporte/reporte.tex" "reporte.pdf" "reporte" 1687562600 0
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1687459263 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1687456200 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1687456200 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -124,11 +124,11 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1687466215 4683009 81ac55e6554f9124653631026fb1fc4e ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1687466291 7903959 8e8e6ebf4a01a8370ec49a9fc788bd81 ""
   "c:/texlive/2023/texmf.cnf" 1687466196 713 e69b156964470283e0530f5060668171 ""
-  "d:/Desktop/PAR_scripts/reporte/reporte.tex" 1687480603 2269 fc106df833cb6cce6c14f73ffafbcff2 ""
-  "reporte.aux" 1687480605 1585 820591119680402b323dd02d55fcd2c9 "pdflatex"
-  "reporte.bbl" 1687480433 1296 678869095a98ec5f8d6c93fdd4d11314 "bibtex reporte"
-  "reporte.out" 1687480605 710 760603fc70fa86d7734394b39be737b3 "pdflatex"
-  "reporte.tex" 1687480603 2269 fc106df833cb6cce6c14f73ffafbcff2 ""
+  "d:/Desktop/PAR_scripts/reporte/reporte.tex" 1687562597 4230 9eb998e0d2b7bfbe90203dba8da3abaa ""
+  "reporte.aux" 1687562599 1535 d52cd856afc731bf63a7224d2a8a25b7 "pdflatex"
+  "reporte.bbl" 1687561604 1296 b5ddfe269db1355cafb0e2b41f29214b "bibtex reporte"
+  "reporte.out" 1687562599 639 b15ab0719a28a9980f6ccee423761b02 "pdflatex"
+  "reporte.tex" 1687562597 4230 9eb998e0d2b7bfbe90203dba8da3abaa ""
   (generated)
   "reporte.aux"
   "reporte.log"
