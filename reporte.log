@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  28 JUN 2023 13:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  28 JUN 2023 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -711,26 +711,26 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 160--161
 
 Package hyperref Warning: Suppressing link with empty target on input line 2.
 
-[5
-pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.11 A
-      hmet Unutulmaz, G{\"u}nhan D{\"u}ndar, and Francisco~V Fern{\'a}ndez.
-pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.11 A
-      hmet Unutulmaz, G{\"u}nhan D{\"u}ndar, and Francisco~V Fern{\'a}ndez. <./
-imagenes/cuadricula_final2.png> <./imagenes/cuadricula_final.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 22--24
  []\OT1/cmr/m/n/9 Note1.  []$\OT1/cmtt/m/n/9 https : / / github . com / Nanopho
 tonIICOs /
  []
 
-) [6] (./reporte.aux)
+) [5
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.174 \end{document}
+                    
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.174 \end{document}
+                     <./imagenes/cuadricula_final2.png> <./imagenes/cuadricula_
+final.png>] (./reporte.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-16>
@@ -739,13 +739,13 @@ Package rerunfilecheck Info: File `reporte.out' has not changed.
 (rerunfilecheck)             Checksum: 65BE44F1E36D3F648F4D908BD80D6768;1152.
  ) 
 Here is how much of TeX's memory you used:
- 14152 strings out of 475723
- 213093 string characters out of 5785840
+ 14151 strings out of 475723
+ 213087 string characters out of 5785840
  1881763 words of memory out of 5000000
  34677 multiletter control sequences out of 15000+600000
  527022 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,1637b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,79p,1637b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2023/texmf-dis
@@ -759,10 +759,10 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt9.pfb>
-Output written on reporte.pdf (6 pages, 1367129 bytes).
+Output written on reporte.pdf (5 pages, 1367480 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 137 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
+ 194 PDF objects out of 1000 (max. 8388607)
+ 134 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
  115 words of extra memory for PDF output out of 10000 (max. 10000000)
 
