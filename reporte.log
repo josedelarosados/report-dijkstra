@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  28 JUN 2023 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.22)  28 JUN 2023 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -558,143 +558,125 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
 (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 3907) in paragraph at lines 36--37
-\OT1/cmr/m/n/10 ru-ta-mien-to pa-ra la au-to-ma-ti-za-ci^^Son del di-se~no de
+Underfull \hbox (badness 1430) in paragraph at lines 34--35
+\OT1/cmr/m/n/10 ter^^S^^Psti-cas par-ti-cu-la-res, co-mo los cir-cui-tos in-te-
+gra-dos
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 36--37
-\OT1/cmr/m/n/10 cir-cui-tos in-te-gra-dos anal^^Sogi-cos y de ra-dio-fre-cuen-c
-ia
+Underfull \hbox (badness 1762) in paragraph at lines 34--35
+\OT1/cmr/m/n/10 en-ru-ta-mien-to au-tom^^Sati-co exis-ten-tes y man-tie-nen la
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 36--37
-\OT1/cmr/m/n/10 cir-cui-tos A/RF avan-za ha-cia no-dos tec-nol^^Sogi-cos de
- []
-
-
-Underfull \hbox (badness 1052) in paragraph at lines 36--37
-\OT1/cmr/m/n/10 in-te-gra-ci^^Son avan-za-da, el cre-cien-te n^^Sume-ro de re-g
-las
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 36--37
-\OT1/cmr/m/n/10 au-tom^^Sati-co exis-ten-tes y man-tie-nen la pre-si^^Son so-br
-e
- []
-
-
-Underfull \hbox (badness 1436) in paragraph at lines 36--37
-\OT1/cmr/m/n/10 s^^S^^Pnte-sis compu-tacio-nal-men-te in-ten-si-vas con in-clu-
-si^^Son
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 1460) in paragraph at lines 34--35
+\OT1/cmr/m/n/10 mo-der-nas per-mi-tie-ron el cre-ci-mien-to de so-fis-ti-ca-dos
 
  []
 
-[1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<imagenes/dijkstra.png, id=56, 527.9725pt x 377.41pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+<imagenes/dijkstra.png, id=40, 527.9725pt x 377.41pt>
 File: imagenes/dijkstra.png Graphic file (type png)
 <use imagenes/dijkstra.png>
-Package pdftex.def Info: imagenes/dijkstra.png  used on input line 62.
+Package pdftex.def Info: imagenes/dijkstra.png  used on input line 60.
 (pdftex.def)             Requested size: 244.79782pt x 174.98706pt.
+[1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 <imagenes/greedy.png, id=57, 527.9725pt x 377.41pt>
 File: imagenes/greedy.png Graphic file (type png)
 <use imagenes/greedy.png>
-Package pdftex.def Info: imagenes/greedy.png  used on input line 71.
+Package pdftex.def Info: imagenes/greedy.png  used on input line 69.
 (pdftex.def)             Requested size: 244.79782pt x 174.98706pt.
 <imagenes/dijkstra-trap.png, id=58, 527.9725pt x 377.41pt>
 File: imagenes/dijkstra-trap.png Graphic file (type png)
 <use imagenes/dijkstra-trap.png>
-Package pdftex.def Info: imagenes/dijkstra-trap.png  used on input line 80.
+Package pdftex.def Info: imagenes/dijkstra-trap.png  used on input line 78.
 (pdftex.def)             Requested size: 244.79782pt x 174.98706pt.
 <imagenes/greedy-trap.png, id=59, 527.9725pt x 377.41pt>
 File: imagenes/greedy-trap.png Graphic file (type png)
 <use imagenes/greedy-trap.png>
-Package pdftex.def Info: imagenes/greedy-trap.png  used on input line 89.
+Package pdftex.def Info: imagenes/greedy-trap.png  used on input line 87.
+(pdftex.def)             Requested size: 244.79782pt x 174.98706pt.
+<imagenes/a-star.png, id=60, 527.9725pt x 377.41pt>
+File: imagenes/a-star.png Graphic file (type png)
+<use imagenes/a-star.png>
+Package pdftex.def Info: imagenes/a-star.png  used on input line 97.
 (pdftex.def)             Requested size: 244.79782pt x 174.98706pt.
  [2
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.93 
-     
+l.101 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.93 
-     
+l.101 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.93 
-      <./imagenes/dijkstra.png> <./imagenes/greedy.png (PNG copy)> <./imagenes/
-dijkstra-trap.png (PNG copy)>]
-<imagenes/a-star.png, id=68, 527.9725pt x 377.41pt>
-File: imagenes/a-star.png Graphic file (type png)
-<use imagenes/a-star.png>
-Package pdftex.def Info: imagenes/a-star.png  used on input line 99.
-(pdftex.def)             Requested size: 244.79782pt x 174.98706pt.
-<imagenes/a-star-trap.png, id=69, 527.9725pt x 377.41pt>
-File: imagenes/a-star-trap.png Graphic file (type png)
-<use imagenes/a-star-trap.png>
-Package pdftex.def Info: imagenes/a-star-trap.png  used on input line 106.
-(pdftex.def)             Requested size: 244.79782pt x 174.98706pt.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 127.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 127.
-
-
-[3
+l.101 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.128 
-      
+l.101 
+       <./imagenes/dijkstra.png> <./imagenes/greedy.png (PNG copy)> <./imagenes
+/dijkstra-trap.png (PNG copy)> <./imagenes/greedy-trap.png (PNG copy)>]
+<imagenes/a-star-trap.png, id=70, 527.9725pt x 377.41pt>
+File: imagenes/a-star-trap.png Graphic file (type png)
+<use imagenes/a-star-trap.png>
+Package pdftex.def Info: imagenes/a-star-trap.png  used on input line 104.
+(pdftex.def)             Requested size: 244.79782pt x 174.98706pt.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 125.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 125.
+
+
+<imagenes/inv.png, id=71, 145.14224pt x 481.8pt>
+File: imagenes/inv.png Graphic file (type png)
+<use imagenes/inv.png>
+Package pdftex.def Info: imagenes/inv.png  used on input line 129.
+(pdftex.def)             Requested size: 94.34132pt x 313.16628pt.
+[3
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.128 
+l.133 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.128 
-       <./imagenes/greedy-trap.png (PNG copy)> <./imagenes/a-star.png> <./image
-nes/a-star-trap.png>]
-<imagenes/inv.png, id=83, 145.14224pt x 481.8pt>
-File: imagenes/inv.png Graphic file (type png)
-<use imagenes/inv.png>
-Package pdftex.def Info: imagenes/inv.png  used on input line 131.
-(pdftex.def)             Requested size: 94.34132pt x 313.16628pt.
+l.133 
+       <./imagenes/a-star.png> <./imagenes/a-star-trap.png>]
 <imagenes/inv_m1.pdf, id=85, 399.6822pt x 882.7409pt>
 File: imagenes/inv_m1.pdf Graphic file (type pdf)
 <use imagenes/inv_m1.pdf>
-Package pdftex.def Info: imagenes/inv_m1.pdf  used on input line 138.
+Package pdftex.def Info: imagenes/inv_m1.pdf  used on input line 136.
 (pdftex.def)             Requested size: 147.89658pt x 326.64943pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 148.
+Package hyperref Warning: Suppressing link with empty target on input line 146.
 
 
 <imagenes/cuadricula_final2.png, id=87, 376.40625pt x 150.5625pt>
 File: imagenes/cuadricula_final2.png Graphic file (type png)
 <use imagenes/cuadricula_final2.png>
-Package pdftex.def Info: imagenes/cuadricula_final2.png  used on input line 152
+Package pdftex.def Info: imagenes/cuadricula_final2.png  used on input line 150
 .
 (pdftex.def)             Requested size: 203.99689pt x 81.60118pt.
 [4
@@ -702,26 +684,26 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.156 
+l.154 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.156 
+l.154 
        <./imagenes/inv.png> <./imagenes/inv_m1.pdf>]
 
-Package hyperref Warning: Suppressing link with empty target on input line 157.
+Package hyperref Warning: Suppressing link with empty target on input line 155.
 
 
 <imagenes/cuadricula_final.png, id=112, 7528.125pt x 7528.125pt>
 File: imagenes/cuadricula_final.png Graphic file (type png)
 <use imagenes/cuadricula_final.png>
-Package pdftex.def Info: imagenes/cuadricula_final.png  used on input line 161.
+Package pdftex.def Info: imagenes/cuadricula_final.png  used on input line 159.
 
 (pdftex.def)             Requested size: 255.0pt x 254.89606pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 161--162
+Overfull \hbox (9.0pt too wide) in paragraph at lines 159--160
  [][] 
  []
 
@@ -761,13 +743,13 @@ Package rerunfilecheck Info: File `reporte.out' has not changed.
 (rerunfilecheck)             Checksum: 65BE44F1E36D3F648F4D908BD80D6768;1152.
  ) 
 Here is how much of TeX's memory you used:
- 14149 strings out of 475723
- 213062 string characters out of 5785840
- 1884763 words of memory out of 5000000
- 34674 multiletter control sequences out of 15000+600000
+ 14151 strings out of 475723
+ 213082 string characters out of 5785840
+ 1881763 words of memory out of 5000000
+ 34676 multiletter control sequences out of 15000+600000
  527022 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,1538b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,79p,1637b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2023/texmf-dis
@@ -781,7 +763,7 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt9.pfb>
-Output written on reporte.pdf (6 pages, 1367429 bytes).
+Output written on reporte.pdf (6 pages, 1367543 bytes).
 PDF statistics:
  198 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
